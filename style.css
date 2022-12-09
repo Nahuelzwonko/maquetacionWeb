@@ -153,53 +153,61 @@ h1 {
 
 /* fondos */
 .bg-1 {
-    background-image: url(./img/1.png);
+    /* background-image: url(./img/1.png); */
+    background-color:#1e1e1e;
 
 }
 
 .bg-2 {
-    background-image: url(./img/1.png);
+    /* background-image: url(./img/1.png); */
+    background-color:#1e1e1e;
 
     /* border-radius: 40px; */
 }
 
 .bg-3 {
-    background-image: url(./img/1.png);
+    /* background-image: url(./img/1.png); */
+    background-color:#1e1e1e;
 
     border-radius: 40px 0px 0px 0px;
 }
 
 .bg-4 {
-    background-color: #000000;
+    background-color: #1e1e1e;
 
     border-radius: 0px 40px 0px 0px;
 }
 
 .bg-5 {
-    background-image: url(./img/1.png);
+    /* background-image: url(./img/1.png); */
+    background-color:#1e1e1e;
 
 }
 
 .bg-6 {
-    background-image: url(./img/1.png);
+    /* background-image: url(./img/1.png); */
+    background-color:#1e1e1e;
 
     border-radius: 0px 0px 0px 40px;
 }
 
 .bg-7 {
-    background-image: url(./img/1.png);
+    /* background-image: url(./img/1.png); */
+    background-color:#1e1e1e;
 
     border-radius: 0px 0px 40px 0px;
 }
 
 
 .bg-8 {
-    background-image: url(./img/1.png);
+    /* background-image: url(./img/1.png); */
+    background-color:#1e1e1e;
 
 }
 
 .bg-9 {
-    background-image: url(./img/1.png);
+    /* background-image: url(./img/1.png); */
+    background-color:#1e1e1e;
 
 }
 
@@ -220,7 +228,7 @@ h1 {
 
 .show-all .panel:before {
     pointer-events: all;
-    background-image: url(./img/img-noise-361x370.png);
+    /* background-image: url(./img/img-noise-361x370.png); */
     
 }
 
